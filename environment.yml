@@ -6,3 +6,5 @@ dependencies:
   - seaborn
   - matplotlib
   - pandas
+  - xlwt
+  - scikit-learn
